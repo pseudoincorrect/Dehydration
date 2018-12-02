@@ -1,0 +1,29 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\examples\\dehydration"
+		},
+		{
+			"path": "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\examples\\common"
+		},
+		{
+			"path": "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\mesh"
+		},
+		{
+			"path": "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\external\\rtt"
+		},
+		{
+			"path": "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\external\\softdevice\\s132_3.1.0\\s132_nrf52_3.1.0_API"
+		},
+		{
+			"path": "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\external\\nRF5_SDK_14.2.0_17b948a\\components\\device"
+		},
+		{
+			"path": "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\external\\nRF5_SDK_14.2.0_17b948a\\components\\drivers_nrf"
+		},
+		{
+			"path": "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\external\\softdevice\\s132_3.1.0\\s132_nrf52_3.1.0_API\\include"
+		}
+	]
+}

@@ -1,0 +1,1288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"empl_bu",
+				"empl_button_dict\tstatement"
+			],
+			[
+				"emp",
+				"empl_key"
+			],
+			[
+				"un",
+				"un_gray_out"
+			],
+			[
+				"obje",
+				"objectName"
+			],
+			[
+				"QP",
+				"QPushButton"
+			],
+			[
+				"node",
+				"node_name"
+			],
+			[
+				"send_no",
+				"send_notif_all_cmd"
+			],
+			[
+				"file",
+				"file_conf"
+			],
+			[
+				"impor",
+				"import_config"
+			],
+			[
+				"confi",
+				"config_dict"
+			],
+			[
+				"import",
+				"import_path"
+			],
+			[
+				"lis",
+				"list_employee"
+			],
+			[
+				"QW",
+				"QtWidgets"
+			],
+			[
+				"ob",
+				"objectName"
+			],
+			[
+				"refre",
+				"refresh"
+			],
+			[
+				"LB_",
+				"LB_select\t(Employee_overview_ui.py)"
+			],
+			[
+				"empl",
+				"empl_key\tstatement"
+			],
+			[
+				"empl_",
+				"empl_dict_disp"
+			],
+			[
+				"ref",
+				"refresh_all_cnt"
+			],
+			[
+				"msg",
+				"msg_data_update"
+			],
+			[
+				"Over",
+				"OverviewProcessign"
+			],
+			[
+				"li",
+				"list_employee\t(overview_processing.py)"
+			],
+			[
+				"upd",
+				"update_employee\t(config_employee.py)"
+			],
+			[
+				"config",
+				"config_employee"
+			],
+			[
+				"emplo",
+				"employee_dict"
+			],
+			[
+				"conf",
+				"config_dict"
+			],
+			[
+				"dir",
+				"dir_conf"
+			],
+			[
+				"nr",
+				"nrf_serial"
+			],
+			[
+				"Emplo",
+				"EmployeeList\t(employee.py)"
+			],
+			[
+				"man",
+				"main_window"
+			],
+			[
+				"nrf",
+				"nrf_serial"
+			],
+			[
+				"main",
+				"main_window"
+			],
+			[
+				"seri",
+				"serial_queue"
+			],
+			[
+				"star",
+				"start_thread_send_dummy"
+			],
+			[
+				"ele",
+				"element_size"
+			],
+			[
+				"SE",
+				"SEGGER_PRINTF"
+			],
+			[
+				"str_",
+				"str_target_iter"
+			],
+			[
+				"UART",
+				"UART_PRINTF"
+			],
+			[
+				"dat",
+				"data_to_fifo"
+			],
+			[
+				"fifo",
+				"fifo_get\t(gen_fifo.c)"
+			],
+			[
+				"fif",
+				"fifo_put\t(gen_fifo.c)"
+			],
+			[
+				"rx",
+				"rx_fifo"
+			],
+			[
+				"retur",
+				"return_msg"
+			],
+			[
+				"serial",
+				"serial_message"
+			],
+			[
+				"nod",
+				"node_count"
+			],
+			[
+				"ma",
+				"main"
+			],
+			[
+				"slee",
+				"sleep_time"
+			],
+			[
+				"port",
+				"port_list"
+			],
+			[
+				"mai",
+				"main_window"
+			],
+			[
+				"conne",
+				"connect_nrf"
+			],
+			[
+				"pb_",
+				"pb_test"
+			],
+			[
+				"PB",
+				"PB_employee"
+			],
+			[
+				"ret",
+				"return_msg"
+			],
+			[
+				"LB",
+				"LB_employee_name"
+			],
+			[
+				"SER",
+				"SERVER_SIZE"
+			],
+			[
+				"UA",
+				"UART_PRINTF"
+			],
+			[
+				"rece",
+				"received_str"
+			],
+			[
+				"te",
+				"test_message"
+			],
+			[
+				"ex",
+				"expected_answer"
+			],
+			[
+				"b",
+				"bytesToRead"
+			],
+			[
+				"por",
+				"port_list"
+			],
+			[
+				"ch",
+				"changeButtonName"
+			],
+			[
+				"IO_",
+				"IO_from_SRAM"
+			],
+			[
+				"SRA",
+				"SRAM_OE_N"
+			],
+			[
+				"MUX_",
+				"MUX_SRAM_TO_FPGA"
+			],
+			[
+				"ST_W",
+				"ST_WRITE_2"
+			],
+			[
+				"rese",
+				"reset_n"
+			],
+			[
+				"int",
+				"interation_count"
+			],
+			[
+				"add_c",
+				"add_comp_cout"
+			],
+			[
+				"add_re",
+				"add_re_cout"
+			],
+			[
+				"im",
+				"imaginary\t(divergence_node.v)"
+			],
+			[
+				"re_p",
+				"re_part_in_start"
+			],
+			[
+				"ad",
+				"add_sub_out"
+			],
+			[
+				"sta",
+				"x_start_r"
+			],
+			[
+				"x_ce",
+				"x_center_coord_r"
+			],
+			[
+				"add",
+				"add_sub_mode"
+			],
+			[
+				"Div_",
+				"div_mode"
+			],
+			[
+				"rdr",
+				"rdreq_select"
+			],
+			[
+				"mux",
+				"mux_data_out"
+			],
+			[
+				"sele",
+				"select_node"
+			],
+			[
+				"para",
+				"para_mux_i"
+			],
+			[
+				"pipe",
+				"pipe_data_out"
+			],
+			[
+				"ST",
+				"ST_CHECK_FIFO_FILL"
+			],
+			[
+				"ne",
+				"next_state"
+			],
+			[
+				"fi",
+				"fifo_node_usedw"
+			],
+			[
+				"STA",
+				"ST_STATE_1"
+			],
+			[
+				"x_",
+				"x_coord_in"
+			],
+			[
+				"x",
+				"x_coord"
+			],
+			[
+				"x_coor",
+				"x_coord_start"
+			],
+			[
+				"da",
+				"data_out_read"
+			],
+			[
+				"fifo_in_",
+				"fifo_in_data"
+			],
+			[
+				"fifo_in",
+				"fifo_in_wrreq"
+			],
+			[
+				"data_in",
+				"data_in_read"
+			],
+			[
+				"is",
+				"is_in_the_set_reg"
+			],
+			[
+				"VGA_C",
+				"VGA_CLK"
+			],
+			[
+				"clo",
+				"clock_VGA"
+			],
+			[
+				"bu",
+				"busy_toggle"
+			],
+			[
+				"ou",
+				"out_write"
+			],
+			[
+				"ALL",
+				"ALL_PIPEL_SIZE-1"
+			],
+			[
+				"co",
+				"counter_processes"
+			],
+			[
+				"count",
+				"counter_processes"
+			],
+			[
+				"data",
+				"data_ready"
+			],
+			[
+				"diver",
+				"diverge"
+			],
+			[
+				"in",
+				"in_process"
+			],
+			[
+				"diverge",
+				"diverge_reg"
+			],
+			[
+				"ite",
+				"iterations_reg"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "serial_interface/employee.py",
+			"settings":
+			{
+				"buffer_size": 1005,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "serial_interface/config_employee.py",
+			"settings":
+			{
+				"buffer_size": 4111,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 13613,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "serial_interface/overview_processing.py",
+			"settings":
+			{
+				"buffer_size": 2777,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 535.0,
+		"last_filter": "up",
+		"selected_items":
+		[
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pep",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"yp",
+				"PyYapf: Format Document"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pypa",
+				"PyYapf: Format Document"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"y",
+				"PyYapf: Format Document"
+			],
+			[
+				"py",
+				"PyYapf: Format Document"
+			],
+			[
+				"pyp",
+				"PyYapf: Format Document"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pep8",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"subl",
+				"Sublundo: Visualize"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"cl",
+				"Clang Format: Select Style"
+			],
+			[
+				"clang ",
+				"Clang Format: Select Style"
+			],
+			[
+				"side",
+				"Side Bar: Disable Syncing"
+			],
+			[
+				"",
+				"Convert Case: Upper Case"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"uper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"math",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"ali",
+				"Preferences: AlignTab Settings"
+			],
+			[
+				"conve",
+				"Convert Case: Upper Case"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"color sh",
+				"UI: Select Color Scheme"
+			],
+			[
+				"conv",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 838.0
+	},
+	"console":
+	{
+		"height": 245.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/GUI",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/overview_conf",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/serial_interface"
+	],
+	"file_history":
+	[
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/serial_interface/serial_interface.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/Employee_overview_ui.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/serial_interface/config_employee.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/test_blink.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/serial_interface/nrfserial.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/serial_interface/serial_constants.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/GUI/Employee_overview_ui.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/serial_interface/nrf_commands_funct.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/serial_interface/employee.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/serial_interface/overview_processing.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/overview_conf/overview_conf.dat",
+		"/C/Users/Max/AppData/Local/Programs/Python/Python36-32/lib/threading.py",
+		"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/main.py",
+		"/C/Users/Max/AppData/Local/Programs/Python/Python36-32/lib/site-packages/serial/__init__.py",
+		"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/PyYapf Python Formatter/PyYapf.sublime-settings",
+		"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/User/PyYapf.sublime-settings",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/employee_overview.sublime-project",
+		"/C/Users/Max/tmp/test.txt",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/nrf_mesh_sdk.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/src/gen_fifo.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bootloader/src/fifo.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/nRF_Libraries/app_fifo/app_fifo.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/core/api/nrf_mesh.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/src/command_def.h",
+		"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Boxy Ocean.sublime-theme",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/external/softdevice/s132_3.1.0/s132_nrf52_3.1.0_API/include/ble_gap.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/external/nRF5_SDK_14.2.0_17b948a/components/device/nrf52_bitfields.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/src/gen_fifo.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/nRF_Libraries/app_uart/app_uart_fifo.c",
+		"/C/Users/Max/Google Drive/G_documents/perso/Pref_software_keyboard/keyboard/remaping_with_windows.ahk",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/core/src/fifo.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/core/src/nrf_mesh.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/peripheral/uart/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/components/libraries/scheduler/app_scheduler.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/components/libraries/scheduler/app_scheduler.h",
+		"/C/Users/Max/AppData/Local/Temp/Temp1_Log.zip/Log/win_key/win keys.txt",
+		"/C/Users/Max/Downloads/win keys.txt",
+		"/C/Users/Max/AppData/Local/Temp/Temp1_dehydration.zip/dehydration/client/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/dehydration_client_Debug.jlink",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/dehydration_client.emSession",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/dehydration_client.emProject",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/server/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/beaconing/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/CMakeLists.txt",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/GUI/dark_palette.py",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/scripts/interactive_pyaci/interactive_pyaci.py",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/src/advertiser.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/api/advertiser.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/scripts/interactive_pyaci/provisioning.py",
+		"/C/Users/Max/AppData/Local/Temp/Temp1_archive_nrf5_sdk.zip/examples/beaconing/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/scripts/interactive_pyaci/README.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/serial/include/nrf_mesh_config_app.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/scripts/interactive_pyaci/aci/aci_config.py",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/beaconing/README.md",
+		"/C/Users/Max/AppData/Local/Temp/light_switch_server_main.diff",
+		"/C/Users/Max/AppData/Local/Temp/4807.main.c",
+		"/C/Users/Max/Google Drive/G_documents/work/administration/Other/Shared_files/CSE Software.gsheet",
+		"/C/Users/Max/tmp/test_pro.py",
+		"/C/Users/Max/Downloads/Licence comsol/License3.dat",
+		"/C/Users/Max/Google Drive/G_documents/work/administration/Other/Shared_files/LABVIEW training.gsheet",
+		"/C/Users/Max/Programming/QT/employee_overview/serial_interface/serial_constants.py",
+		"/C/Users/Max/Programming/QT/employee_overview/serial_interface/serial_interface.py",
+		"/C/Users/Max/Programming/QT/employee_overview/GUI/Employee_overview_ui.py",
+		"/C/Users/Max/Programming/QT/employee_overview/main.py",
+		"/C/Users/Max/Programming/QT/employee_overview/serial_interface/nrf_commands_funct.py",
+		"/C/Users/Max/AppData/Local/Temp/Temp1_Log.zip/Log/psw qf.txt",
+		"/C/Users/Max/Programming/python/serv_cc3200/serv_rec/setup.py",
+		"/C/Users/Max/Programming/QT/employee_overview/Employee_overview_ui.py",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/models/inc/dehydration_common.h",
+		"/C/Users/Max/Google Drive/G_documents/work/courses/Undergrad logic/lab_manual/lab5_FSM/Quartus_lab5_FSM/src/lab_5_fsm_to_complete.bdf",
+		"/C/Users/Max/tmp/text.txt",
+		"/C/Users/Max/tmp/Lab5_FSM/src/FSM.v",
+		"/C/Users/Max/Google Drive/G_documents/work/administration/Other/IT/azure requirements.txt",
+		"/C/Users/Max/Programming/Verilog/template/template_FSM.v",
+		"/C/Users/Max/tmp/Lab5_FSM/output_files/Verilog1.v",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/server/dehydration_server.emSession",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/light_switch/server/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/external/nRF5_SDK_14.2.0_17b948a/components/libraries/util/app_util_platform.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/nRF_Libraries/app_uart/app_uart.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/nRF_Libraries/experimental_log/strerror/nrf_strerror.h",
+		"/C/Users/Max/Programming/QT/employee_overview/Employee_overview.ui",
+		"/C/Users/Max/Programming/QT/qt_test/Employee_overview_ui.py",
+		"/C/Users/Max/Programming/QT/qt_test/main.py",
+		"/C/Users/Max/Programming/QT/qt_test/test_ui.py",
+		"/C/Users/Max/Downloads/PyQt4_gpl_win-4.12.1/README",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/models/src/dehydration_server.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/external/nRF5_SDK_14.2.0_17b948a/components/libraries/util/app_error.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/client/dehydration_client.emProject",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/client/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/server/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/models/inc/dehydration_common.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/models/inc/dehydration_server.h",
+		"/C/Users/Max/Downloads/nrf5-eagle-reference-design-master/Getting_started.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/models/inc/dehydration_client.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/models/src/dehydration_client.c",
+		"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/client/src/provisioner.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/server/dehydration_server.emProject",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/models/inc/simple_on_off_common.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/server/light_switch_server_nrf52832_xxAA_s132_3_1_0.emProject",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/client/CMakeLists.txt",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/models/simple_on_off/README.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/client/dehydration_client.emSession",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/client/light_switch_client_nrf52832_xxAA_s132_3_1_0.emProject",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/models/simple_on_off/CMakeLists.txt",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/light_switch/README.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/mesh/access/src/access.c",
+		"/C/Users/Max/AppData/Local/Temp/Temp1_archive_nrf5_sdk.zip/examples/light_switch/client/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/serial/README.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/beaconing/README.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/scripts/interactive_pyaci/interactive_pyaci.py",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/models/simple_on_off/src/simple_on_off_server.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/doc/introduction/mesh_hw_resources.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/light_switch/client/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/light_switch/client/include/nrf_mesh_config_app.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/light_switch/client/include/provisioner.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/doc/getting_started/how_to_windows_tools.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/doc/getting_started/how_to_build.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/doc/getting_started/how_to_build_your_network.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/doc/getting_started/how_to_nordicSDK.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/README.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/doc/getting_started/how_to_toolchain.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/light_switch/client/CMakeLists.txt",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/doc/introduction/basic_architecture.md"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 203.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"###############################################################################",
+			"##############################################################################",
+			"#############################################################################",
+			"############################################################################",
+			"###########################################################################",
+			"send_dummy",
+			"def",
+			"self.colo",
+			"color",
+			"x",
+			"set_pallette",
+			"update_data",
+			"empl_dict_displayed",
+			"empl_dict",
+			"empl_dict_disp",
+			"empl_dict",
+			"empl_dict_disp",
+			"PB_employee_f",
+			"handleButtonClicked",
+			"e1",
+			"color",
+			"anila",
+			";",
+			"QtGui",
+			"Qt::",
+			"PB_report",
+			"PB_animation",
+			"utex.rel",
+			"tex.acquir",
+			"mutex acquire",
+			"mutex.releas",
+			"mutex.acquire",
+			"empl_key",
+			"addr_key",
+			"serial_read_t",
+			"empl_value",
+			"humidity",
+			"print",
+			"DATA_S",
+			"node",
+			"val_str",
+			"dummy",
+			"start_thread_send_dummy",
+			"toSggle",
+			"selec",
+			"number",
+			"## ",
+			"current_employee_addr",
+			"print",
+			"create_config",
+			"config_dict",
+			"QLineEdit",
+			"QInputDialog",
+			"save_",
+			"PB_notif_drink_f",
+			"PB_notif_employee_f",
+			"change_name",
+			"self",
+			"le_",
+			"le",
+			"_val",
+			"\"\"",
+			"empl_dict",
+			")\n",
+			"my_button",
+			"timer_refresh",
+			"refresh",
+			"refresh_UI",
+			"change_name",
+			"self",
+			"def",
+			"button",
+			"self",
+			"main_window",
+			"self",
+			"SAWidget_employee_list",
+			"empl_dict",
+			"emp_dict",
+			"emp_dic",
+			"refresh_all",
+			"msg_process",
+			"start_refreshing_thread",
+			"start_processing_thread",
+			"OverviewProcessign",
+			"\\n",
+			",",
+			"INDEX_",
+			"dehydration",
+			"%",
+			"SC",
+			"INDEX_",
+			"SC.",
+			"def",
+			"print",
+			"fil_conf",
+			"###############################################################################",
+			"##############################################################################",
+			"#############################################################################",
+			"############################################################################",
+			"###########################################################################",
+			"employee_f",
+			"funct",
+			"PB_notification_drink",
+			"PB_notification_drink_funct",
+			"(self)",
+			"serial_mutex",
+			"nrf_ser_port",
+			"nrf_ser",
+			"toggle",
+			"global",
+			"serial_read_t",
+			"serial_mutex",
+			"is_serial_connected",
+			"nrf52_serial",
+			"main_window",
+			"###############################################################################",
+			"serial_send_t",
+			"send_dummy",
+			"global",
+			"send_dummy",
+			"is_serial_connected",
+			"'n",
+			"\"nrf52",
+			"nrf52",
+			"retval",
+			"ret_msg",
+			"print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "serial_interface/employee.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1005,
+								1005
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "serial_interface/config_employee.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3630,
+								3630
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12364,
+								12364
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"complete_parameters": false,
+							"easy_motion_mode": false,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8496.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "serial_interface/overview_processing.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								272,
+								272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "serial_interface/config_employee.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1073,
+								1073
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 188.0
+	},
+	"output.exec":
+	{
+		"height": 463.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sublundo":
+	{
+		"height": 146.0
+	},
+	"pinned_build_system": "",
+	"project": "employee_overview.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"const",
+				"serial_interface\\serial_constants.py"
+			],
+			[
+				"ner",
+				"serial_interface\\nrfserial.py"
+			],
+			[
+				"sei",
+				"serial_interface\\serial_interface.py"
+			],
+			[
+				"ui",
+				"GUI\\Employee_overview_ui.py"
+			],
+			[
+				"ma",
+				"main.py"
+			],
+			[
+				"app_",
+				"dehydration\\nRF_Libraries\\app_fifo\\app_fifo.c"
+			],
+			[
+				"fifo",
+				"mesh\\bootloader\\src\\fifo.c"
+			],
+			[
+				"gefn",
+				"dehydration\\client\\src\\gen_fifo.h"
+			],
+			[
+				"gen",
+				"dehydration\\client\\src\\gen_fifo.h"
+			],
+			[
+				"div",
+				"divergence_node.v"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 70.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 766.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 357.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

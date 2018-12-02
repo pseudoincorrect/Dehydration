@@ -1,0 +1,1029 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ADVERTISER_REPEAT_",
+				"ADVERTISER_REPEAT_ONCE\t(advertiser.h)"
+			],
+			[
+				"bu",
+				"buf\t(advertiser.c)"
+			],
+			[
+				"nrf",
+				"nrf_delay_ms"
+			],
+			[
+				"SET",
+				"SEGGER_PRINTF"
+			],
+			[
+				"ele",
+				"element_size"
+			],
+			[
+				"SE",
+				"SEGGER_PRINTF"
+			],
+			[
+				"str_",
+				"str_target_iter"
+			],
+			[
+				"UART",
+				"UART_PRINTF"
+			],
+			[
+				"dat",
+				"data_to_fifo"
+			],
+			[
+				"fifo",
+				"fifo_get\t(gen_fifo.c)"
+			],
+			[
+				"fif",
+				"fifo_put\t(gen_fifo.c)"
+			],
+			[
+				"rx",
+				"rx_fifo"
+			],
+			[
+				"retur",
+				"return_msg"
+			],
+			[
+				"serial",
+				"serial_message"
+			],
+			[
+				"nod",
+				"node_count"
+			],
+			[
+				"refre",
+				"refresh_node_buttons"
+			],
+			[
+				"ma",
+				"main"
+			],
+			[
+				"slee",
+				"sleep_time"
+			],
+			[
+				"port",
+				"port_list"
+			],
+			[
+				"mai",
+				"main_window"
+			],
+			[
+				"conne",
+				"connect_nrf"
+			],
+			[
+				"pb_",
+				"pb_test"
+			],
+			[
+				"PB",
+				"PB_employee"
+			],
+			[
+				"ret",
+				"return_msg"
+			],
+			[
+				"LB",
+				"LB_employee_name"
+			],
+			[
+				"emplo",
+				"employee_number"
+			],
+			[
+				"seri",
+				"serial_interface"
+			],
+			[
+				"nr",
+				"nrf52_serial"
+			],
+			[
+				"SER",
+				"SERVER_SIZE"
+			],
+			[
+				"UA",
+				"UART_PRINTF"
+			],
+			[
+				"rece",
+				"received_str"
+			],
+			[
+				"te",
+				"test_message"
+			],
+			[
+				"ex",
+				"expected_answer"
+			],
+			[
+				"b",
+				"bytesToRead"
+			],
+			[
+				"por",
+				"port_list"
+			],
+			[
+				"ch",
+				"changeButtonName"
+			],
+			[
+				"IO_",
+				"IO_from_SRAM"
+			],
+			[
+				"SRA",
+				"SRAM_OE_N"
+			],
+			[
+				"MUX_",
+				"MUX_SRAM_TO_FPGA"
+			],
+			[
+				"ST_W",
+				"ST_WRITE_2"
+			],
+			[
+				"rese",
+				"reset_n"
+			],
+			[
+				"int",
+				"interation_count"
+			],
+			[
+				"star",
+				"start_fract"
+			],
+			[
+				"add_c",
+				"add_comp_cout"
+			],
+			[
+				"add_re",
+				"add_re_cout"
+			],
+			[
+				"im",
+				"imaginary\t(divergence_node.v)"
+			],
+			[
+				"re_p",
+				"re_part_in_start"
+			],
+			[
+				"ad",
+				"add_sub_out"
+			],
+			[
+				"sta",
+				"x_start_r"
+			],
+			[
+				"x_ce",
+				"x_center_coord_r"
+			],
+			[
+				"add",
+				"add_sub_mode"
+			],
+			[
+				"Div_",
+				"div_mode"
+			],
+			[
+				"node",
+				"node_select"
+			],
+			[
+				"rdr",
+				"rdreq_select"
+			],
+			[
+				"mux",
+				"mux_data_out"
+			],
+			[
+				"sele",
+				"select_node"
+			],
+			[
+				"para",
+				"para_mux_i"
+			],
+			[
+				"pipe",
+				"pipe_data_out"
+			],
+			[
+				"ST",
+				"ST_CHECK_FIFO_FILL"
+			],
+			[
+				"ne",
+				"next_state"
+			],
+			[
+				"fi",
+				"fifo_node_usedw"
+			],
+			[
+				"STA",
+				"ST_STATE_1"
+			],
+			[
+				"x_",
+				"x_coord_in"
+			],
+			[
+				"x",
+				"x_coord"
+			],
+			[
+				"x_coor",
+				"x_coord_start"
+			],
+			[
+				"da",
+				"data_out_read"
+			],
+			[
+				"fifo_in_",
+				"fifo_in_data"
+			],
+			[
+				"fifo_in",
+				"fifo_in_wrreq"
+			],
+			[
+				"data_in",
+				"data_in_read"
+			],
+			[
+				"is",
+				"is_in_the_set_reg"
+			],
+			[
+				"VGA_C",
+				"VGA_CLK"
+			],
+			[
+				"clo",
+				"clock_VGA"
+			],
+			[
+				"ou",
+				"out_write"
+			],
+			[
+				"ALL",
+				"ALL_PIPEL_SIZE-1"
+			],
+			[
+				"co",
+				"counter_processes"
+			],
+			[
+				"count",
+				"counter_processes"
+			],
+			[
+				"data",
+				"data_ready"
+			],
+			[
+				"diver",
+				"diverge"
+			],
+			[
+				"in",
+				"in_process"
+			],
+			[
+				"diverge",
+				"diverge_reg"
+			],
+			[
+				"ite",
+				"iterations_reg"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/server/src/main_server.c",
+			"settings":
+			{
+				"buffer_size": 16796,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main_client.c",
+			"settings":
+			{
+				"buffer_size": 19085,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 535.0,
+		"last_filter": "up",
+		"selected_items":
+		[
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"subl",
+				"Sublundo: Visualize"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"cl",
+				"Clang Format: Select Style"
+			],
+			[
+				"clang ",
+				"Clang Format: Select Style"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"Side Bar: Disable Syncing"
+			],
+			[
+				"",
+				"Convert Case: Upper Case"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"uper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"math",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"ali",
+				"Preferences: AlignTab Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"conve",
+				"Convert Case: Upper Case"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"color sh",
+				"UI: Select Color Scheme"
+			],
+			[
+				"conv",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 838.0
+	},
+	"console":
+	{
+		"height": 245.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/include",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/src",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/include",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/server",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/server/src",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/access",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/access/include",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/app",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/include"
+	],
+	"file_history":
+	[
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/include/command_def.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/core/src/packet_buffer.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/core/include/packet_buffer.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/api/advertiser.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/src/advertiser.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/api/bearer_defines.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/src/main_client.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/server/src/main_server.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/light_switch/client/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/nRF_Libraries/nrf_drv/nrf_drv_saadc.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/nRF_Libraries/nrf_drv/nrf_drv_timer.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/src/main_client.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/api/nrf_mesh_config_bearer.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/src/scanner.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/src/gen_fifo.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/src/gen_fifo.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/include/nrf_mesh_config_app.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/include/provisioner.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/api/ad_type_filter.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/api/gap_address_filter.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/api/adv_packet_filter.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/include/instaburst_internal.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/include/bearer_handler.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/include/broadcast.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/server/dehydration_server.emSession",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/server/dehydration_server.emProject",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/dehydration_client_Debug.jlink",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/dehydration_client.emSession",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/server/dehydration_server_Debug.jlink",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/test/src/ut_bitfield.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/build/dehydration_client_Debug/obj/app_fifo.d",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/server/src/main.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/server/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/src/main.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/external/softdevice/s132_3.1.0/s132_nrf52_3.1.0_API/include/ble_gap.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/build/dehydration_client_Debug/dehydration_client.elf",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/access/src/nrf_mesh_node_config.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bearer/src/instaburst_tx.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/core/include/log.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/external/nRF5_SDK_14.2.0_17b948a/components/device/nrf.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/src/command_def.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/core/api/nrf_mesh.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/bootloader/src/fifo.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/access/api/nrf_mesh_node_config.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/external/softdevice/s132_3.1.0/s132_nrf52_3.1.0_API/include/nrf_error.h",
+		"/C/Users/Max/tmp/test.txt",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/nrf_mesh_sdk.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/nRF_Libraries/app_fifo/app_fifo.c",
+		"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Boxy Ocean.sublime-theme",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/external/nRF5_SDK_14.2.0_17b948a/components/device/nrf52_bitfields.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/nRF_Libraries/app_uart/app_uart_fifo.c",
+		"/C/Users/Max/Google Drive/G_documents/perso/Pref_software_keyboard/keyboard/remaping_with_windows.ahk",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/core/src/fifo.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/mesh/core/src/nrf_mesh.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/peripheral/uart/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/components/libraries/scheduler/app_scheduler.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/components/libraries/scheduler/app_scheduler.h",
+		"/C/Users/Max/AppData/Local/Temp/Temp1_Log.zip/Log/win_key/win keys.txt",
+		"/C/Users/Max/Downloads/win keys.txt",
+		"/C/Users/Max/AppData/Local/Temp/Temp1_dehydration.zip/dehydration/client/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/client/dehydration_client.emProject",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/beaconing/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/CMakeLists.txt",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/GUI/Employee_overview_ui.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/serial_interface/serial_interface.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/serial_interface/serial_constants.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/serial_interface/nrf_commands_funct.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/GUI/dark_palette.py",
+		"/C/Users/Max/Programming/python/dehydration_QT/employee_overview/main.py",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/scripts/interactive_pyaci/interactive_pyaci.py",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/scripts/interactive_pyaci/provisioning.py",
+		"/C/Users/Max/AppData/Local/Temp/Temp1_archive_nrf5_sdk.zip/examples/beaconing/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/scripts/interactive_pyaci/README.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/serial/include/nrf_mesh_config_app.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/scripts/interactive_pyaci/aci/aci_config.py",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/beaconing/README.md",
+		"/C/Users/Max/AppData/Local/Temp/light_switch_server_main.diff",
+		"/C/Users/Max/AppData/Local/Temp/4807.main.c",
+		"/C/Users/Max/Google Drive/G_documents/work/administration/Other/Shared_files/CSE Software.gsheet",
+		"/C/Users/Max/tmp/test_pro.py",
+		"/C/Users/Max/Downloads/Licence comsol/License3.dat",
+		"/C/Users/Max/Google Drive/G_documents/work/administration/Other/Shared_files/LABVIEW training.gsheet",
+		"/C/Users/Max/Programming/QT/employee_overview/serial_interface/serial_constants.py",
+		"/C/Users/Max/Programming/QT/employee_overview/serial_interface/serial_interface.py",
+		"/C/Users/Max/Programming/QT/employee_overview/GUI/Employee_overview_ui.py",
+		"/C/Users/Max/Programming/QT/employee_overview/main.py",
+		"/C/Users/Max/Programming/QT/employee_overview/serial_interface/nrf_commands_funct.py",
+		"/C/Users/Max/AppData/Local/Temp/Temp1_Log.zip/Log/psw qf.txt",
+		"/C/Users/Max/Programming/python/serv_cc3200/serv_rec/setup.py",
+		"/C/Users/Max/Programming/QT/employee_overview/Employee_overview_ui.py",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/models/inc/dehydration_common.h",
+		"/C/Users/Max/Google Drive/G_documents/work/courses/Undergrad logic/lab_manual/lab5_FSM/Quartus_lab5_FSM/src/lab_5_fsm_to_complete.bdf",
+		"/C/Users/Max/tmp/text.txt",
+		"/C/Users/Max/tmp/Lab5_FSM/src/FSM.v",
+		"/C/Users/Max/Google Drive/G_documents/work/administration/Other/IT/azure requirements.txt",
+		"/C/Users/Max/Programming/Verilog/template/template_FSM.v",
+		"/C/Users/Max/tmp/Lab5_FSM/output_files/Verilog1.v",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/light_switch/server/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/external/nRF5_SDK_14.2.0_17b948a/components/libraries/util/app_util_platform.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/nRF_Libraries/app_uart/app_uart.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/nRF_Libraries/experimental_log/strerror/nrf_strerror.h",
+		"/C/Users/Max/Programming/QT/employee_overview/Employee_overview.ui",
+		"/C/Users/Max/Programming/QT/qt_test/Employee_overview_ui.py",
+		"/C/Users/Max/Programming/QT/qt_test/main.py",
+		"/C/Users/Max/Programming/QT/qt_test/test_ui.py",
+		"/C/Users/Max/Downloads/PyQt4_gpl_win-4.12.1/README",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/models/src/dehydration_server.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/external/nRF5_SDK_14.2.0_17b948a/components/libraries/util/app_error.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/client/dehydration_client.emProject",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/client/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/server/src/main.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/models/inc/dehydration_common.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/models/inc/dehydration_server.h",
+		"/C/Users/Max/Downloads/nrf5-eagle-reference-design-master/Getting_started.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/models/inc/dehydration_client.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/models/src/dehydration_client.c",
+		"/C/Users/Max/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/client/src/provisioner.c",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/server/dehydration_server.emProject",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/models/inc/simple_on_off_common.h",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/server/light_switch_server_nrf52832_xxAA_s132_3_1_0.emProject",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/client/CMakeLists.txt",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/models/simple_on_off/README.md",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/client/dehydration_client.emSession",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/dehydration/client/light_switch_client_nrf52832_xxAA_s132_3_1_0.emProject",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/models/simple_on_off/CMakeLists.txt",
+		"/C/Users/Max/Programming/C/nrf52/nrf5_sdk/examples/light_switch/README.md"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 203.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"t_g_diff",
+			">buf",
+			".buf",
+			"buf",
+			"adv_msg",
+			"ERROR_CHECK",
+			"advertiser_interval_set",
+			"start_advertiser",
+			"mesh_send_notif",
+			"mesh_send_notification",
+			"button",
+			"butt",
+			"button_event_handler",
+			"butto",
+			"saadc_sampling_event_init",
+			"timer_handler",
+			"timer",
+			"set_advertiser_configuration",
+			"advertiser_instance_init",
+			"beacon_init",
+			"set_default_advertiser_configuration",
+			"BEARER_ADV_INT_DEFAULT_MS",
+			"BEARER_SCAN_INT_DEFAULT_MS",
+			"%02x",
+			" LEDS_",
+			"hal_led_pin_set",
+			"change_data_advertiser",
+			"change_advertiser",
+			"LEDS_OFF",
+			"cmd",
+			"CMD",
+			"cmd",
+			"msg_ptr",
+			"ble_gap_addr_t",
+			"adv_data",
+			"sage receive",
+			"DVERTISER_REP",
+			" ADVERTISER_REPEAT",
+			"change_advertiser",
+			"send_command_all",
+			"NOTIF_ALL",
+			"TO_SINGLE",
+			"m_ble_gap_addr",
+			"node_addr_p",
+			"advertiser_address_default_get",
+			"node_addr_p",
+			"led",
+			"select_command",
+			"_",
+			"COMMAN",
+			"=",
+			"msg",
+			"set_addr",
+			"NRF_FICR",
+			"nt i",
+			"%02x",
+			"02",
+			"<<",
+			"%0x%0x%",
+			"%0x%",
+			"received_str",
+			"%",
+			":",
+			"adv_data",
+			"//",
+			"## ",
+			"msg_str",
+			"cmd",
+			"addr",
+			";",
+			":",
+			"1",
+			"BEARER_ADV_INT_DEFAULT_MS",
+			"ERROR",
+			" * ",
+			"/*****************************************************************************",
+			"cmd_str",
+			":",
+			"\\\"",
+			"%",
+			"\\\"",
+			" \\\"",
+			":",
+			"str_target",
+			"BLE_GAP_ADDR_LEN",
+			"&",
+			"]",
+			",",
+			"%d",
+			"\n    SEGGER_RTT_printf(0, \"\\r\\nfifo %d",
+			"rx_fifo",
+			"sidebar",
+			"side_bar",
+			"side",
+			"side ",
+			"side ba",
+			"messa",
+			"messah",
+			"x",
+			"PRE_UART_TX_BUF_SIZE",
+			"rx_fifo_buf",
+			"fifo_get",
+			"fifo_peek",
+			"fifo_put",
+			"gen_fifo_get",
+			"gen_fifo_put",
+			"fifo_put",
+			"fifo_length",
+			"data_packet_t",
+			"x",
+			"str_complete",
+			"uart_rx_check",
+			"| ",
+			"uart_init",
+			"UART_PRINTF",
+			"msg_str",
+			"data_to_fifo",
+			"while",
+			"str_complete",
+			"uart_poll",
+			"fifo_pre_uart_tx",
+			".h",
+			"NRF_SUCCESS",
+			"NRF_ERROR_NOT_FOUND",
+			"src_data",
+			"dest_data",
+			"p_dest_data",
+			"p_dest_byte"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Max/Programming/C/nrf52/nrf5_sdk_mesh/examples/dehydration/server/src/main_server.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1341,
+								3462
+							]
+						],
+						"settings":
+						{
+							"easy_motion_mode": false,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main_client.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5635,
+								5635
+							]
+						],
+						"settings":
+						{
+							"easy_motion_mode": false,
+							"history_list_is_closing": true,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3292.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sublundo":
+	{
+		"height": 146.0
+	},
+	"pinned_build_system": "",
+	"project": "subl_dehydration.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"adv",
+				"mesh\\bearer\\api\\advertiser.h"
+			],
+			[
+				"adver",
+				"mesh\\bearer\\src\\advertiser.c"
+			],
+			[
+				"comm",
+				"dehydration\\include\\command_def.h"
+			],
+			[
+				"main_s",
+				"dehydration\\server\\src\\main_server.h"
+			],
+			[
+				"mai",
+				"dehydration\\client\\src\\main_client.h"
+			],
+			[
+				"main",
+				"dehydration\\server\\src\\main_server.h"
+			],
+			[
+				"nrf_mesh_config_bearer",
+				"mesh\\bearer\\api\\nrf_mesh_config_bearer.h"
+			],
+			[
+				"",
+				"mesh\\test\\src\\ut_bitfield.c"
+			],
+			[
+				"main.h",
+				"dehydration\\server\\src\\main.h"
+			],
+			[
+				"config_bearer",
+				"mesh\\bearer\\api\\nrf_mesh_config_bearer.h"
+			],
+			[
+				"node_co",
+				"mesh\\access\\src\\nrf_mesh_node_config.c"
+			],
+			[
+				"mesh.h",
+				"mesh\\core\\api\\nrf_mesh.h"
+			],
+			[
+				"nrf",
+				"device\\nrf.h"
+			],
+			[
+				"node",
+				"mesh\\access\\api\\nrf_mesh_node_config.h"
+			],
+			[
+				"fif",
+				"mesh\\bootloader\\src\\fifo.c"
+			],
+			[
+				"gen",
+				"dehydration\\client\\src\\gen_fifo.h"
+			],
+			[
+				"def",
+				"dehydration\\client\\src\\command_def.h"
+			],
+			[
+				"app_",
+				"dehydration\\nRF_Libraries\\app_fifo\\app_fifo.c"
+			],
+			[
+				"fifo",
+				"mesh\\bootloader\\src\\fifo.c"
+			],
+			[
+				"gefn",
+				"dehydration\\client\\src\\gen_fifo.h"
+			],
+			[
+				"div",
+				"divergence_node.v"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 70.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 766.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 357.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

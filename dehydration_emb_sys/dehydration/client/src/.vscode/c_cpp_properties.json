@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "${workspaceFolder}\\**",
+                "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\external\\nRF5_SDK_14.2.0_17b948a\\components\\**",
+                "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\mesh\\**",
+                "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\models\\config\\include\\**",
+                "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\external\\**",
+                "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\models\\**",
+                "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\examples\\dehydration\\nRF_Libraries\\**",
+                "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\examples\\dehydration\\include\\**",
+                "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\examples\\dehydration\\models\\**",
+                "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\examples\\common\\**",
+                "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\examples\\**",
+                "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\mesh\\test\\**",
+                "C:\\Users\\Max\\Google_Drive\\G_programming\\C\\nrf52\\nrf5_sdk_mesh\\models\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
