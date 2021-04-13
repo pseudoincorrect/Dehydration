@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-<p align="center"><img width=50% src="Support/readme_Assets/pcb_gui.jpg"></p>
+<p align="center"><img width=50% src="support/readme_assets/pcb_gui.jpg"></p>
 
 # Quick Description
 
@@ -26,7 +26,7 @@ It uses the Nordic NRF SDK and acts as a beacon to transmit data at regular inte
 <br>
 The PCB has been made with Eagle and assembled on premises. 
 <br><br>
-<p align="center"><img width=30% src="Support/readme_Assets/pcb_hand.jpg"></p>
+<p align="center"><img width=30% src="support/readme_assets/pcb_hand.jpg"></p>
 <br>
 
 ## GUI
@@ -39,7 +39,7 @@ Data is then stored and displayed. The Devices are appearing and disapearing dyn
 Not the most elaborate UI, but it did a fine job back then and validated our proof of concept.
 <br><br>
 
-<p align="center"><img width=30% src="Support/readme_Assets/gui.jpg"></p>
+<p align="center"><img width=30% src="support/readme_assets/gui.jpg"></p>
 
 # Note
 This project is the first version/prototype as proof of concept which lead us to continue on a following project with a higher complexity and capabilities.
