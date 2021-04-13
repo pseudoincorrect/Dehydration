@@ -7,9 +7,9 @@
 
 # Quick Description
 
-Embedded system and complementary GUI to measure the vital signs of a group of individuals.
+PCB, Embedded system firmware and complementary GUI to measure the vital signs of a group of individuals.
 <br>
-It's project code "Dehydration" is due to the final objective to analyze data and display a dehydration level of the user. 
+This project's code "Dehydration" is due to the final objective to analyze data and display a dehydration level of the user. 
 <br>
 (Machine Learning involved, from the data science department) 
 <br>
